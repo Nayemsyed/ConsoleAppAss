@@ -1,0 +1,14 @@
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\bin\Debug\net6.0\ConsoleAppAss.exe
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\bin\Debug\net6.0\ConsoleAppAss.deps.json
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\bin\Debug\net6.0\ConsoleAppAss.runtimeconfig.json
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\bin\Debug\net6.0\ConsoleAppAss.dll
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\bin\Debug\net6.0\ConsoleAppAss.pdb
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.AssemblyInfoInputs.cache
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.AssemblyInfo.cs
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.csproj.CoreCompileInputs.cache
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.dll
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\refint\ConsoleAppAss.dll
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.pdb
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ConsoleAppAss.genruntimeconfig.cache
+D:\Mphasis\Feb15\ConsoleAppAss\ConsoleAppAss\obj\Debug\net6.0\ref\ConsoleAppAss.dll
